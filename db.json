@@ -67,29 +67,6 @@
       "includeFavorites1": "includeFavorites1",
       "print": false,
       "saveFavorites": true
-    },
-    {
-      "id": 7,
-      "frequency": "4",
-      "includeFavorites": [
-        ""
-      ],
-      "includeFavorites1": "Pharmacist Message",
-      "includeFavorites1Chk": [
-        ""
-      ],
-      "medication": "m6edication",
-      "print": false,
-      "prn": true,
-      "quantity": "3",
-      "refills": "4",
-      "route": "2",
-      "saveFavorites": [
-        ""
-      ],
-      "additionalSig": "Test Sig",
-      "daw": true,
-      "daysSupply": "4"
     }
   ],
   "patient": [
