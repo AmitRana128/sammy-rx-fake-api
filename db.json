@@ -67,6 +67,50 @@
       "includeFavorites1": "includeFavorites1",
       "print": false,
       "saveFavorites": true
+    },
+    {
+      "id": 1,
+      "frequency": "2",
+      "includeFavorites": false,
+      "includeFavorites1": "dvsdsv",
+      "includeFavorites1Chk": false,
+      "medication": "dvsdv",
+      "print": [
+        ""
+      ],
+      "prn": true,
+      "quantity": "1",
+      "refills": "2",
+      "route": "1",
+      "saveFavorites": [
+        ""
+      ],
+      "additionalSig": "dsvdsv",
+      "daw": true,
+      "daysSupply": "3"
+    },
+    {
+      "id": 7,
+      "frequency": "4",
+      "includeFavorites": [
+        ""
+      ],
+      "includeFavorites1": "Pharmacist Message",
+      "includeFavorites1Chk": [
+        ""
+      ],
+      "medication": "m6edication",
+      "print": false,
+      "prn": true,
+      "quantity": "3",
+      "refills": "4",
+      "route": "2",
+      "saveFavorites": [
+        ""
+      ],
+      "additionalSig": "Test Sig",
+      "daw": true,
+      "daysSupply": "4"
     }
   ],
   "patient": [
@@ -156,6 +200,12 @@
         "name": "Amoxicillin125 mg Chewable Tablet",
         "refills": "As directed,0 Refills",
         "isFavorite": false
+      },
+      {
+        "id": 6,
+        "name": "Amoxicillin125 mg Chewable Tablet",
+        "refills": "As directed,0 Refills",
+        "isFavorite": true
       }
     ],
     "frequentlyUsedMedications": [
@@ -187,6 +237,56 @@
     {
       "id": 2,
       "name": "medication2"
+    },
+    {
+      "id": 3,
+      "name": "abc1"
+    },
+    {
+      "id": 4,
+      "name": "abc2"
+    },
+    {
+      "id": 5,
+      "name": "abc3"
+    },
+    {
+      "id": 6,
+      "name": "ccc1"
+    },
+    {
+      "id": 7,
+      "name": "cdb2"
+    },
+    {
+      "id": 8,
+      "name": "ccf3"
+    }
+  ],
+  "favoritePrescriptions": [    
+    {
+      "id": 2,
+      "name": "Amoxicillin125 mg Chewable Tablet",
+      "refills": "As directed,0 Refills",
+      "isFavorite": true
+    },
+    {
+      "id": 4,
+      "name": "Amoxicillin125 mg Chewable Tablet",
+      "refills": "As directed,0 Refills",
+      "isFavorite": false
+    },
+    {
+      "id": 5,
+      "name": "Amoxicillin125 mg Chewable Tablet",
+      "refills": "As directed,0 Refills",
+      "isFavorite": false
+    },
+    {
+      "id": 6,
+      "name": "Amoxicillin125 mg Chewable Tablet",
+      "refills": "As directed,0 Refills",
+      "isFavorite": true
     }
   ]
 }
