@@ -223,31 +223,5 @@
       "id": 6,
       "name": "ccc1"
     }
-  ],
-  "favoritePrescriptions": [    
-    {
-      "id": 2,
-      "name": "Amoxicillin125 mg Chewable Tablet",
-      "refills": "As directed,0 Refills",
-      "isFavorite": true
-    },
-    {
-      "id": 4,
-      "name": "Amoxicillin125 mg Chewable Tablet",
-      "refills": "As directed,0 Refills",
-      "isFavorite": false
-    },
-    {
-      "id": 5,
-      "name": "Amoxicillin125 mg Chewable Tablet",
-      "refills": "As directed,0 Refills",
-      "isFavorite": false
-    },
-    {
-      "id": 6,
-      "name": "Amoxicillin125 mg Chewable Tablet",
-      "refills": "As directed,0 Refills",
-      "isFavorite": true
-    }
   ]
 }
