@@ -105,6 +105,12 @@
         },
         {
           "name": "Lamisil"
+        },
+          {
+          "name": "Amoxicillin 25mg"
+        },
+        {
+          "name": "Lamisil"
         }
       ],
       "allergies": [
@@ -112,6 +118,15 @@
           "name": "Penicillin Hives"
         },
         {
+          "name": "Penicillin Hives"
+        },
+        {
+          "name": "Penicillin Hives"
+        },
+        {
+          "name": "Penicillin Hives"
+        },
+         {
           "name": "Penicillin Hives"
         },
         {
