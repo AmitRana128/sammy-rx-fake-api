@@ -132,7 +132,7 @@
   ],
   "profile": [
     {
-      "id":1,
+      "id": 1,
       "imageURL": "https://i.ibb.co/QCGsmhm/Capture001.png",
       "name": "Will Wheaton",
       "phoneNumber": "516-766-2129",
@@ -167,88 +167,156 @@
       ]
     }
   ],
-  "favorites":
+  "favorites": {
+    "showAllDoctors": true,
+    "showAllDoctors1": false,
+    "favoritePrescriptions": [
+      {
+        "id": 1,
+        "name": "Amoxicillin125 mg Chewable Tablet",
+        "refills": "As directed,0 Refills",
+        "isFavorite": true
+      },
+      {
+        "id": 2,
+        "name": "Amoxicillin125 mg Chewable Tablet",
+        "refills": "As directed,0 Refills",
+        "isFavorite": true
+      },
+      {
+        "id": 3,
+        "name": "Amoxicillin125 mg Chewable Tablet",
+        "refills": "As directed,0 Refills",
+        "isFavorite": true
+      },
+      {
+        "id": 4,
+        "name": "Amoxicillin125 mg Chewable Tablet",
+        "refills": "As directed,0 Refills",
+        "isFavorite": false
+      },
+      {
+        "id": 5,
+        "name": "Amoxicillin125 mg Chewable Tablet",
+        "refills": "As directed,0 Refills",
+        "isFavorite": false
+      },
+      {
+        "id": 6,
+        "name": "Amoxicillin125 mg Chewable Tablet",
+        "refills": "As directed,0 Refills",
+        "isFavorite": true
+      }
+    ],
+    "frequentlyUsedMedications": [
+      {
+        "id": 1,
+        "name": "Amoxicillin125 mg Chewable Tablet",
+        "refills": "As directed,0 Refills",
+        "isFavorite": false
+      },
+      {
+        "id": 2,
+        "name": "Amoxicillin125 mg Chewable Tablet",
+        "refills": "As directed,0 Refills",
+        "isFavorite": false
+      },
+      {
+        "id": 3,
+        "name": "Amoxicillin125 mg Chewable Tablet",
+        "refills": "As directed,0 Refills",
+        "isFavorite": true
+      }
+    ]
+  },
+  "medications": [
     {
-      "showAllDoctors":true,
-      "showAllDoctors1":false,
-      "favoritePrescriptions":[
-        {
-          "id": 1,
-          "name": "Amoxicillin125 mg Chewable Tablet",
-          "refills": "As directed,0 Refills",
-          "isFavorite": true
-        },
-        {
-          "id": 2,
-          "name": "Amoxicillin125 mg Chewable Tablet",
-          "refills": "As directed,0 Refills",
-          "isFavorite": true
-        },
-        {
-          "id": 3,
-          "name": "Amoxicillin125 mg Chewable Tablet",
-          "refills": "As directed,0 Refills",
-          "isFavorite": true
-        },
-        {
-          "id": 4,
-          "name": "Amoxicillin125 mg Chewable Tablet",
-          "refills": "As directed,0 Refills",
-          "isFavorite": false
-        },
-        {
-          "id": 5,
-          "name": "Amoxicillin125 mg Chewable Tablet",
-          "refills": "As directed,0 Refills",
-          "isFavorite": false
-        },
-        {
-          "id": 6,
-          "name": "Amoxicillin125 mg Chewable Tablet",
-          "refills": "As directed,0 Refills",
-          "isFavorite": true
-        }
-      ],
-      "frequentlyUsedMedications":[
-        {
-            "id": 1,
-            "name": "Amoxicillin125 mg Chewable Tablet",
-            "refills": "As directed,0 Refills",
-            "isFavorite": false
-          },
-          {
-            "id": 2,
-            "name": "Amoxicillin125 mg Chewable Tablet",
-            "refills": "As directed,0 Refills",
-            "isFavorite": false
-          },
-          {
-            "id": 3,
-            "name": "Amoxicillin125 mg Chewable Tablet",
-            "refills": "As directed,0 Refills",
-            "isFavorite": true
-          }
-      ]
+      "id": 1,
+      "name": "medication1"
     },
-  "medications":[{
-    "id":1,
-    "name":"medication1"
-  },
-  {
-    "id":2,
-    "name":"medication2"
-  },
-  {
-    "id":3,
-    "name":"medication3"
-  },
-  {
-    "id":4,
-    "name":"medication4"
-  },
-  {
-    "id":5,
-    "name":"medication5"
-  }
-]
+    {
+      "id": 2,
+      "name": "medication2"
+    },
+    {
+      "id": 3,
+      "name": "abc1"
+    },
+    {
+      "id": 4,
+      "name": "abc2"
+    },
+    {
+      "id": 5,
+      "name": "abc3"
+    },
+    {
+      "id": 6,
+      "name": "ccc1"
+    },
+    {
+      "id": 7,
+      "name": "cdb2"
+    },
+    {
+      "id": 8,
+      "name": "ccf3"
+    }
+  ],
+  "favoritePrescriptions": [
+    {
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Amoxicillin125 mg Chewable Tablet",
+      "refills": "As directed,0 Refills",
+      "isFavorite": true
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "Amoxicillin125 mg Chewable Tablet",
+      "refills": "As directed,0 Refills",
+      "isFavorite": false
+    },
+    {
+      "id": 5,
+      "name": "Amoxicillin125 mg Chewable Tablet",
+      "refills": "As directed,0 Refills",
+      "isFavorite": false
+    },
+    {
+      "id": 6,
+      "name": "Amoxicillin125 mg Chewable Tablet",
+      "refills": "As directed,0 Refills",
+      "isFavorite": true
+    }
+  ],
+  "frequentlyUsedMedications": [
+    {
+      "name": "Amoxicillin125 mg Chewable Tablet",
+      "refills": "As directed,0 Refills",
+      "isFavorite": false,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Amoxicillin125 mg Chewable Tablet",
+      "refills": "As directed,0 Refills",
+      "isFavorite": false
+    },
+    {
+      "id": 3,
+      "name": "Amoxicillin125 mg Chewable Tablet",
+      "refills": "As directed,0 Refills",
+      "isFavorite": true
+    },
+    {
+      "isFavorite": true,
+      "id": 5
+    }
+  ]
 }
