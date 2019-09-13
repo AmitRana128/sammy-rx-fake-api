@@ -92,7 +92,9 @@
       "imageURL": "https://i.ibb.co/QCGsmhm/Capture001.png",
       "name": "Will Wheaton",
       "phoneNumber": "516-766-2129",
-      "address": "23 Main Street Oceanside, NY 11572",
+      "city":"23 Main Street Oceanside",
+      "state":"NY",
+      "pinCode":"11572",
       "currentMedications": [
         {
           "name": "Amoxicillin 25mg"
