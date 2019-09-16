@@ -221,34 +221,5 @@
       "id": 8,
       "name": "ccf3"
     }
-  ],
-"refills":[
-  {
-  "name":"John Doe",
-  "doctor":"Robert DPM",
-  "date":"02/24/44",
-  "enteredDate":"01/12/19",
-  "expiresDate":"01/15/20",
-  "left":"1",
-  "medication":"Tylenol 325mg tablet"
-  },
-  {
-    "name":"Robert",
-    "doctor":"Robert DPM",
-    "date":"02/24/44",
-    "enteredDate":"01/12/19",
-    "expiresDate":"01/15/20",
-    "left":"2",
-    "medication":"Tylenol 325mg tablet"
-    },
-    {
-      "name":"Deo Marry",
-      "doctor":"Robert DPM",
-      "date":"02/24/44",
-      "enteredDate":"01/12/19",
-      "expiresDate":"01/15/20",
-      "left":"3",
-      "medication":"Tylenol 325mg tablet"
-      }
-]
+  ]
 }
