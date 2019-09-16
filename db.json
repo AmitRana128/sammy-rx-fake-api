@@ -67,50 +67,6 @@
       "includeFavorites1": "includeFavorites1",
       "print": false,
       "saveFavorites": true
-    },
-    {
-      "id": 1,
-      "frequency": "2",
-      "includeFavorites": false,
-      "includeFavorites1": "dvsdsv",
-      "includeFavorites1Chk": false,
-      "medication": "dvsdv",
-      "print": [
-        ""
-      ],
-      "prn": true,
-      "quantity": "1",
-      "refills": "2",
-      "route": "1",
-      "saveFavorites": [
-        ""
-      ],
-      "additionalSig": "dsvdsv",
-      "daw": true,
-      "daysSupply": "3"
-    },
-    {
-      "id": 7,
-      "frequency": "4",
-      "includeFavorites": [
-        ""
-      ],
-      "includeFavorites1": "Pharmacist Message",
-      "includeFavorites1Chk": [
-        ""
-      ],
-      "medication": "m6edication",
-      "print": false,
-      "prn": true,
-      "quantity": "3",
-      "refills": "4",
-      "route": "2",
-      "saveFavorites": [
-        ""
-      ],
-      "additionalSig": "Test Sig",
-      "daw": true,
-      "daysSupply": "4"
     }
   ],
   "patient": [
@@ -136,7 +92,9 @@
       "imageURL": "https://i.ibb.co/QCGsmhm/Capture001.png",
       "name": "Will Wheaton",
       "phoneNumber": "516-766-2129",
-      "address": "23 Main Street Oceanside, NY 11572",
+      "city":"23 Main Street Oceanside",
+      "state":"NY",
+      "pinCode":"11572",
       "currentMedications": [
         {
           "name": "Amoxicillin 25mg"
@@ -149,6 +107,12 @@
         },
         {
           "name": "Lamisil"
+        },
+          {
+          "name": "Amoxicillin 25mg"
+        },
+        {
+          "name": "Lamisil"
         }
       ],
       "allergies": [
@@ -156,6 +120,15 @@
           "name": "Penicillin Hives"
         },
         {
+          "name": "Penicillin Hives"
+        },
+        {
+          "name": "Penicillin Hives"
+        },
+        {
+          "name": "Penicillin Hives"
+        },
+         {
           "name": "Penicillin Hives"
         },
         {
@@ -200,12 +173,6 @@
         "name": "Amoxicillin125 mg Chewable Tablet",
         "refills": "As directed,0 Refills",
         "isFavorite": false
-      },
-      {
-        "id": 6,
-        "name": "Amoxicillin125 mg Chewable Tablet",
-        "refills": "As directed,0 Refills",
-        "isFavorite": true
       }
     ],
     "frequentlyUsedMedications": [
@@ -230,7 +197,7 @@
     ]
   },
   "medications": [
-    {
+  {
       "id": 1,
       "name": "medication1"
     },
@@ -243,16 +210,8 @@
       "name": "abc1"
     },
     {
-      "id": 4,
-      "name": "abc2"
-    },
-    {
       "id": 5,
       "name": "abc3"
-    },
-    {
-      "id": 6,
-      "name": "ccc1"
     },
     {
       "id": 7,
@@ -262,170 +221,5 @@
       "id": 8,
       "name": "ccf3"
     }
-  ],
-  "favoritePrescriptions": [
-    {
-      "id": 1
-    },
-    {
-      "id": 2,
-      "name": "Amoxicillin125 mg Chewable Tablet",
-      "refills": "As directed,0 Refills",
-      "isFavorite": true
-    },
-    {
-      "id": 3
-    },
-    {
-      "id": 4,
-      "name": "Amoxicillin125 mg Chewable Tablet",
-      "refills": "As directed,0 Refills",
-      "isFavorite": false
-    },
-    {
-      "id": 5,
-      "name": "Amoxicillin125 mg Chewable Tablet",
-      "refills": "As directed,0 Refills",
-      "isFavorite": false
-    },
-    {
-      "id": 6,
-      "name": "Amoxicillin125 mg Chewable Tablet",
-      "refills": "As directed,0 Refills",
-      "isFavorite": true
-    }
-  ],
-  "frequentlyUsedMedications": [
-    {
-      "name": "Amoxicillin125 mg Chewable Tablet",
-      "refills": "As directed,0 Refills",
-      "isFavorite": false,
-      "id": 1
-    },
-    {
-      "id": 2,
-      "name": "Amoxicillin125 mg Chewable Tablet",
-      "refills": "As directed,0 Refills",
-      "isFavorite": false
-    },
-    {
-      "id": 3,
-      "name": "Amoxicillin125 mg Chewable Tablet",
-      "refills": "As directed,0 Refills",
-      "isFavorite": true
-    },
-    {
-      "isFavorite": true,
-      "id": 5
-    }
-  ],
-  "pendingRx":[{
-"id":"1",
-"name":"John Deo",
-"doctor":"Robert Alexander, DPM",
-"pharmacy":"CVS",
-"date":"01/12/18",
-"medcation":"Tylenol 325mg tablet"
-  },
-  {
-    "id":"1",
-    "name":"John Deo",
-    "doctor":"Robert Alexander, DPM",
-    "pharmacy":"CVS",
-    "date":"01/12/18",
-    "medcation":"Tylenol 325mg tablet"
-      },
-      {
-        "id":"1",
-        "name":"John Mary",
-        "doctor":"Robert, DPM",
-        "pharmacy":"CVS",
-        "date":"01/12/18",
-        "medcation":"Tylenol 325mg tablet"
-      },
-      {
-        "id":"1",
-        "name":"Deo",
-        "doctor":"Alexander, DPM",
-        "pharmacy":"CVS",
-        "date":"01/12/18",
-        "medcation":"Tylenol 325mg tablet"
-      },
-      {
-         "id":"1",
-                "name":"John Deo Marry",
-                "doctor":"Robert, DPM",
-                "pharmacy":"CVS",
-                "date":"01/12/18",
-                "medcation":"Tylenol 325mg tablet"
-      }
-],
-"refills":[
-  {
-  "name":"John Doe",
-  "doctor":"Robert DPM",
-  "date":"02/24/44",
-  "enteredDate":"01/12/19",
-  "expiresDate":"01/15/20",
-  "left":"1",
-  "medication":"Tylenol 325mg tablet"
-  },
-  {
-    "name":"Robert",
-    "doctor":"Robert DPM",
-    "date":"02/24/44",
-    "enteredDate":"01/12/19",
-    "expiresDate":"01/15/20",
-    "left":"2",
-    "medication":"Tylenol 325mg tablet"
-    },
-    {
-      "name":"Deo Marry",
-      "doctor":"Robert DPM",
-      "date":"02/24/44",
-      "enteredDate":"01/12/19",
-      "expiresDate":"01/15/20",
-      "left":"3",
-      "medication":"Tylenol 325mg tablet"
-      },
-      {
-        "name":"John Marry Doe",
-        "doctor":"Robert DPM",
-        "date":"02/24/44",
-        "enteredDate":"01/12/19",
-        "expiresDate":"01/15/20",
-        "left":"4",
-        "medication":"Tylenol 325mg tablet"
-        }
-
-],
-"failedRx":[
-  {
-  "id":"1",
-  "name":"John Doe",
-  "doctor":"Robert Alexander DPM",
-  "date":"02/24/44",
-  "eventDate": "01/12/18",
-  "medcation":"Tylenol 100 mg tablet",
-  "failure":"Invalid Connection"
-},
-{
-  "id":"2",
-  "name":"John Robert",
-  "doctor":"Robert Alexander DPM",
-  "date":"02/24/44",
-  "eventDate": "01/12/18",
-  "medcation":"Tylenol 125 mg tablet",
-  "failure":"Invalid Connection"
-},
-{
-  "id":"3",
-  "name":"Doe Maria",
-  "doctor":"Robert Alexander DPM",
-  "date":"02/24/44",
-  "eventDate": "01/12/18",
-  "medcation":"Tylenol 50 mg tablet",
-  "failure":"Invalid Connection"
-}
-]
+  ]
 }
