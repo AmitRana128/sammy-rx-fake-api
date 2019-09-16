@@ -229,5 +229,114 @@
       "id": 8,
       "name": "ccf3"
     }
-  ]
+  ],
+  "pendingRx":[{
+"id":"1",
+"name":"John Deo",
+"doctor":"Robert Alexander, DPM",
+"pharmacy":"CVS",
+"date":"01/12/18",
+"medcation":"Tylenol 325mg tablet"
+  },
+  {
+    "id":"1",
+    "name":"John Deo",
+    "doctor":"Robert Alexander, DPM",
+    "pharmacy":"CVS",
+    "date":"01/12/18",
+    "medcation":"Tylenol 325mg tablet"
+      },
+      {
+        "id":"1",
+        "name":"John Mary",
+        "doctor":"Robert, DPM",
+        "pharmacy":"CVS",
+        "date":"01/12/18",
+        "medcation":"Tylenol 325mg tablet"
+      },
+      {
+        "id":"1",
+        "name":"Deo",
+        "doctor":"Alexander, DPM",
+        "pharmacy":"CVS",
+        "date":"01/12/18",
+        "medcation":"Tylenol 325mg tablet"
+      },
+      {
+         "id":"1",
+                "name":"John Deo Marry",
+                "doctor":"Robert, DPM",
+                "pharmacy":"CVS",
+                "date":"01/12/18",
+                "medcation":"Tylenol 325mg tablet"
+      }
+],
+"refills":[
+  {
+  "name":"John Doe",
+  "doctor":"Robert DPM",
+  "date":"02/24/44",
+  "enteredDate":"01/12/19",
+  "expiresDate":"01/15/20",
+  "left":"1",
+  "medication":"Tylenol 325mg tablet"
+  },
+  {
+    "name":"Robert",
+    "doctor":"Robert DPM",
+    "date":"02/24/44",
+    "enteredDate":"01/12/19",
+    "expiresDate":"01/15/20",
+    "left":"2",
+    "medication":"Tylenol 325mg tablet"
+    },
+    {
+      "name":"Deo Marry",
+      "doctor":"Robert DPM",
+      "date":"02/24/44",
+      "enteredDate":"01/12/19",
+      "expiresDate":"01/15/20",
+      "left":"3",
+      "medication":"Tylenol 325mg tablet"
+      },
+      {
+        "name":"John Marry Doe",
+        "doctor":"Robert DPM",
+        "date":"02/24/44",
+        "enteredDate":"01/12/19",
+        "expiresDate":"01/15/20",
+        "left":"4",
+        "medication":"Tylenol 325mg tablet"
+        }
+
+],
+"failedRx":[
+  {
+  "id":"1",
+  "name":"John Doe",
+  "doctor":"Robert Alexander DPM",
+  "date":"02/24/44",
+  "eventDate": "01/12/18",
+  "medcation":"Tylenol 100 mg tablet",
+  "failure":"Invalid Connection"
+},
+{
+  "id":"2",
+  "name":"John Robert",
+  "doctor":"Robert Alexander DPM",
+  "date":"02/24/44",
+  "eventDate": "01/12/18",
+  "medcation":"Tylenol 125 mg tablet",
+  "failure":"Invalid Connection"
+},
+{
+  "id":"3",
+  "name":"Doe Maria",
+  "doctor":"Robert Alexander DPM",
+  "date":"02/24/44",
+  "eventDate": "01/12/18",
+  "medcation":"Tylenol 50 mg tablet",
+  "failure":"Invalid Connection"
+}
+]
 }
