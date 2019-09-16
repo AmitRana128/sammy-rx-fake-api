@@ -210,16 +210,8 @@
       "name": "abc1"
     },
     {
-      "id": 4,
-      "name": "abc2"
-    },
-    {
       "id": 5,
       "name": "abc3"
-    },
-    {
-      "id": 6,
-      "name": "ccc1"
     },
     {
       "id": 7,
@@ -257,17 +249,7 @@
       "expiresDate":"01/15/20",
       "left":"3",
       "medication":"Tylenol 325mg tablet"
-      },
-      {
-        "name":"John Marry Doe",
-        "doctor":"Robert DPM",
-        "date":"02/24/44",
-        "enteredDate":"01/12/19",
-        "expiresDate":"01/15/20",
-        "left":"4",
-        "medication":"Tylenol 325mg tablet"
-        }
-
+      }
 ],
 "failedRx":[
   {
