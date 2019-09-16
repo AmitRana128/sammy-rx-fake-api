@@ -230,47 +230,6 @@
       "name": "ccf3"
     }
   ],
-  "pendingRx":[{
-"id":"1",
-"name":"John Deo",
-"doctor":"Robert Alexander, DPM",
-"pharmacy":"CVS",
-"date":"01/12/18",
-"medcation":"Tylenol 325mg tablet"
-  },
-  {
-    "id":"1",
-    "name":"John Deo",
-    "doctor":"Robert Alexander, DPM",
-    "pharmacy":"CVS",
-    "date":"01/12/18",
-    "medcation":"Tylenol 325mg tablet"
-      },
-      {
-        "id":"1",
-        "name":"John Mary",
-        "doctor":"Robert, DPM",
-        "pharmacy":"CVS",
-        "date":"01/12/18",
-        "medcation":"Tylenol 325mg tablet"
-      },
-      {
-        "id":"1",
-        "name":"Deo",
-        "doctor":"Alexander, DPM",
-        "pharmacy":"CVS",
-        "date":"01/12/18",
-        "medcation":"Tylenol 325mg tablet"
-      },
-      {
-         "id":"1",
-                "name":"John Deo Marry",
-                "doctor":"Robert, DPM",
-                "pharmacy":"CVS",
-                "date":"01/12/18",
-                "medcation":"Tylenol 325mg tablet"
-      }
-],
 "refills":[
   {
   "name":"John Doe",
