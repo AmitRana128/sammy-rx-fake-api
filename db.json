@@ -89,11 +89,12 @@
   "profile": [
     {
       "id": 1,
-      "imageURL": "https://i.ibb.co/QCGsmhm/Capture001.png",
+     "imageURL": "https://i.ibb.co/QCGsmhm/Capture001.png",
       "name": "Will Wheaton",
       "phoneNumber": "516-766-2129",
-      "city":"23 Main Street Oceanside",
-      "state":"NY",
+      "address":"23 Main Street",
+      "city":"Oceanside",
+      "state":" NY",
       "pinCode":"11572",
       "currentMedications": [
         {
